@@ -1,0 +1,21 @@
+{
+  "name": "gitnpm",
+  "version": "1.0.0",
+  "description": "Test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/c/tmpGit1/Gitr2"
+  },
+  "keywords": [
+    "test1"
+  ],
+  "author": "Jeff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
